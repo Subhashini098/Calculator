@@ -1,7 +1,8 @@
 # Calculator
 
-Progrmmed simple calculator. Utilized tkinter library.
-![Screenshot 1-Divison)](https://github.com/Subhashini098/Calculator/assets/109629881/59d4edf2-a751-451a-9159-9fd1ea4e36d4)
+Programmed simple calculator. Utilized Tkinter library.
+
+![Screenshot (1037)](https://github.com/Subhashini098/Calculator/assets/109629881/0ac9c23f-e943-4015-9f89-54d50b5b386d)
 
 
-![Screenshot 2-Answer](https://github.com/Subhashini098/Calculator/assets/109629881/57da01f2-432a-40e0-b9ce-55ff266afeef)
+![Screenshot (1038)](https://github.com/Subhashini098/Calculator/assets/109629881/21885779-c94c-47d3-b17c-6124fc1c1cbd)
